@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy I'm Xine 👋
 
 Software Dev with a curiosity for synthesis, audio, coding, and graphic design.  <br> 
 // DevMountain Web Dev, 2023-2024
