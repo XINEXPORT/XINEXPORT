@@ -4,6 +4,9 @@
 👩🏻‍💻 Ask me about: my involvement with audio programming  <br>
 🤼‍♀️ Fun fact: I was on the wrestling team in high school.
 
+
+<img src="https://komarev.com/ghpvc/?username=XINEXPORT">
+
 ### Technologies :  
   <div>
     <img src="https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=html5&logoColor=white">
@@ -22,3 +25,5 @@
     <img src="https://img.shields.io/badge/NPM-cc3534?style=for-the-badge&logo=npm&logoColor=white">
     <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
   </div>
+
+  ### Stats : 
