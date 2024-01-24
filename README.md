@@ -1,6 +1,6 @@
 ### Howdy I'm Xine
 
-🛠️ I’m working on.... Guess the Animal, my 1st full stack app <br>
+🛠️ I’m working on.... Vibes, a create your own soundscape app <br>
 👩🏻‍💻 Ask me about: my involvement with audio programming  <br>
 🤼‍♀️ Fun fact: I was on the wrestling team in high school.
 
