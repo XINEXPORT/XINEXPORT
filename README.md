@@ -1,11 +1,10 @@
+<img src="https://komarev.com/ghpvc/?username=XINEXPORT&color=ff69b4">
+
 ### Howdy I'm Xine
 
 🛠️ I’m working on.... <a href = "https://github.com/AdamSydnor/Vibes">Vibes</a> , a create your own soundscape app <br>
 👩🏻‍💻 Ask me about: my involvement with audio programming  <br>
 🤼‍♀️ Fun fact: I was on the wrestling team in high school.
-
-
-<img src="https://komarev.com/ghpvc/?username=XINEXPORT&color=ff69b4">
 
 ### Technologies :  
   <div>
