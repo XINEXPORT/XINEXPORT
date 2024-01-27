@@ -1,12 +1,17 @@
 <img src="https://komarev.com/ghpvc/?username=XINEXPORT&color=ff69b4&style=for-the-badge">
 
-### Howdy I'm Xine
+<div id="header" align="center">
+<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBpdHJhM3I4NWkxa2todTBpZDM5bzkya3QxNTR4aWNrdm9jejk2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vaCxq7DVVsrNOFU4V1/giphy.gif"/>
+</div>
+
+### Howdy, I'm Xine
 
 🛠️ I’m working on.... <a href = "https://github.com/AdamSydnor/Vibes">Vibes</a> , a create your own soundscape app <br>
 👩🏻‍💻 Ask me about: my involvement with audio programming  <br>
 🤼‍♀️ Fun fact: I was on the wrestling team in high school.
 
-### Technologies :  
+---
+### Technologies 
   <div>
     <img src="https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -24,7 +29,7 @@
     <img src="https://img.shields.io/badge/NPM-cc3534?style=for-the-badge&logo=npm&logoColor=white">
     <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
   </div>
-  
+
   <br>
   
   <div>
