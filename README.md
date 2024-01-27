@@ -5,7 +5,7 @@
 🤼‍♀️ Fun fact: I was on the wrestling team in high school.
 
 
-<img src="https://komarev.com/ghpvc/?username=XINEXPORT">
+<img src="https://komarev.com/ghpvc/?username=XINEXPORT&color=ff69b4">
 
 ### Technologies :  
   <div>
@@ -25,4 +25,7 @@
     <img src="https://img.shields.io/badge/NPM-cc3534?style=for-the-badge&logo=npm&logoColor=white">
     <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
   </div>
-
+  <br>
+  <div>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=XINEXPORT&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+  </div>
