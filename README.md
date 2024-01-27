@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=XINEXPORT&color=ff69b4">
+<img src="https://komarev.com/ghpvc/?username=XINEXPORT&color=ff69b4&style=for-the-badge">
 
 ### Howdy I'm Xine
 
