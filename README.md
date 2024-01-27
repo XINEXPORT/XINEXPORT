@@ -2,7 +2,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=XINEXPORT&color=ff69b4&style=for-the-badge">
 
-### Howdy, I'm Xine
+### Howdy, I'm Christine
 
 🛠️ I’m working on.... <a href = "https://github.com/AdamSydnor/Vibes">Vibes</a> , a create your own soundscape app <br>
 👩🏻‍💻 Ask me about: my involvement with audio programming  <br>
