@@ -1,7 +1,8 @@
-<img src="https://komarev.com/ghpvc/?username=XINEXPORT&color=ff69b4&style=for-the-badge">
+
 
 <div id="header" align="center">
-<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBpdHJhM3I4NWkxa2todTBpZDM5bzkya3QxNTR4aWNrdm9jejk2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vaCxq7DVVsrNOFU4V1/giphy.gif"/>
+<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBpdHJhM3I4NWkxa2todTBpZDM5bzkya3QxNTR4aWNrdm9jejk2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vaCxq7DVVsrNOFU4V1/giphy.gif"/><br>
+<img src="https://komarev.com/ghpvc/?username=XINEXPORT&color=ff69b4&style=for-the-badge">
 </div>
 
 ### Howdy, I'm Xine
