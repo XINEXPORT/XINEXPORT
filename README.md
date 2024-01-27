@@ -25,7 +25,12 @@
     <img src="https://img.shields.io/badge/NPM-cc3534?style=for-the-badge&logo=npm&logoColor=white">
     <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
   </div>
+  
   <br>
+  
   <div>
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=XINEXPORT&theme=vue-dark&hide_border=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=XINEXPORT&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+  <br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=XINEXPORT&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
   </div>
