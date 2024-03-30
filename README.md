@@ -6,7 +6,7 @@
 
 🛠️ I’m working on.... 
 - <a href = "https://github.com/AdamSydnor/Vibes](https://github.com/XINEXPORT/vite-ghpages">Texas Coding Club</a> , a open-source blog made by me and Joe Aguado
-- <a href = "https://github.com/CloudyBae/dsd-grocery">DSD Grocery Mobile App</a>
+- <a href = "https://github.com/CloudyBae/dsd-grocery">DSD Grocery Management Mobile App</a>
 , a 6-week challenge for the Dallas Software Developers Group.<br>
 
 👩🏻‍💻 Ask me about: my involvement with audio programming  <br>
