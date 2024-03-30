@@ -5,7 +5,7 @@
 ### Howdy, I'm Christine
 
 🛠️ I’m working on.... 
-- <a href = "https://github.com/XINEXPORT/vite-ghpages">Texas Coding Club</a>, a Western themed, open-source blog made by me and <a href="https://github.com/joeoverflowcode">Joe Aguado</a>
+- <a href = "https://github.com/XINEXPORT/vite-ghpages">Texas Coding Club</a>, a western themed, open-source coding blog made by me and <a href="https://github.com/joeoverflowcode">Joe Aguado</a>
 - <a href = "https://github.com/CloudyBae/dsd-grocery">DSD Grocery Management Mobile App</a>
 , a 6-week challenge for the Dallas Software Developers Group.<br>
 
