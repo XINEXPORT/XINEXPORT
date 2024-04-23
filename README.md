@@ -6,7 +6,7 @@
 
 🛠️ I’m working on.... 
 - <a href = "https://github.com/XINEXPORT/vite-ghpages">Texas Coding Club</a>, a western themed, open-source coding blog made by me and <a href="https://github.com/joeoverflowcode">Joe Aguado</a><br>
-- <a href="https://github.com/XINEXPORT/Zest">Zest</a> Grocery Management Mobile App, a 6-week challenge for the Dallas Software Developers Group.<br>
+- <a href="https://github.com/XINEXPORT/dsd-grocery">Zest</a> Grocery Management Mobile App, a 6-week challenge for the Dallas Software Developers Group.<br>
 
 👩🏻‍💻 Ask me about: my involvement with audio programming  <br>
 🤼‍♀️ Fun fact: I was on the wrestling team in high school.
