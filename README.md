@@ -37,5 +37,4 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=XINEXPORT&theme=radical&hide_border=true">
   <img src = "https://github-readme-stats.vercel.app/api?username=XINEXPORT&theme=radical&show_icons=true&hide_border=true&count_private=true">
   <br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=XINEXPORT&theme=radical&show_icons=true&hide_border=true&layout=compact">
   </div>
