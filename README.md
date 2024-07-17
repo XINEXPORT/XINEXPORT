@@ -5,7 +5,7 @@
 ### Howdy, I'm Christine
 
 🛠️ I’m working on.... 
-- <a href="https://github.com/XINEXPORT/chatgpt-ai-healthapp">CareBuddy</a>, an AI Healthcare Chatbot for DallasAI, 4-Week challenge.<br>
+- <a href="https://github.com/XINEXPORT/chatgpt-ai-healthapp">CareBuddy</a>, an AI Healthcare Chatbot for DallasAI, 4-Week challenge for the DallasAI student developers group.<br>
 - <a href = "https://github.com/XINEXPORT/vite-ghpages">Texas Coding Club</a>, an open-source coding blog made by me and <a href="https://github.com/joeoverflowcode">Joe Aguado</a><br>
 
 👩🏻‍💻 Ask me about: my involvement with audio programming  <br>
