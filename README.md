@@ -2,14 +2,14 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=XINEXPORT&color=ff69b4&style=for-the-badge">
 
-### Howdy, I'm Christine
+### Hi, I'm Christine
 
 🛠️ I’m working on.... 
+- <p> Intro to C# and Murach's ASP.NET Core MVC <p>
 - <a href="https://github.com/XINEXPORT/chatgpt-ai-healthapp">CareBuddy</a>, an AI Healthcare Chatbot for DallasAI, 4-Week challenge for the DallasAI student developers group.<br>
-- <a href = "https://github.com/XINEXPORT/vite-ghpages">Texas Coding Club</a>, an open-source coding blog made by me and <a href="https://github.com/joeoverflowcode">Joe Aguado</a><br>
 
-👩🏻‍💻 Ask me about: my involvement with audio programming  <br>
-🤼‍♀️ Fun fact: I was on the wrestling team in high school.
+✉️ Ask me about: <a href = "https://prescientist.org/">Letters to a Pre-Scientist</a> </br>
+
 
 ---
 ### Technologies 
