@@ -4,9 +4,16 @@
 
 ### Hi, I'm Christine
 
-🛠️ I’m working on.... 
+🛠️ I’m currently working on.... 
 - <p> Intro to C# and Murach's ASP.NET Core MVC <p>
-- <a href="https://github.com/XINEXPORT/chatgpt-ai-healthapp">CareBuddy</a>, an AI Healthcare Chatbot for DallasAI, 4-Week challenge for the DallasAI student developers group.<br>
+- <a href="https://see.stanford.edu/Course/CS106B">Stanford Engineering's C++</a>, an introduction programming methodology course in C++, CS106B <br>
+
+Past Full-Stack Web Apps
+- <a href="https://github.com/XINEXPORT/chatgpt-ai-healthapp"> CareBuddy </a>, an AI Healthcare Chatbot for DallasAI, 4-Week challenge for the DallasAI student developers group.<br>
+- <a href="https://github.com/CloudyBae/dsd-grocery"> Zest </a>, a grocery management tool with built-in ingredient tracker, recipe integration, and macro calculator. <br>
+- <a href="https://github.com/XINEXPORT/Vibes"> Vibes </a>, a create-your-own soundscape web application for networked, social engagement. <br>
+- <a href="https://github.com/XINEXPORT/guesstheanimal">Guess the Animal </a>, an online interactive children’s game platform where a user matches a sound to an pictures of animals. <br>
+<br>
 
 ✉️ Ask me about: <a href = "https://prescientist.org/">Letters to a Pre-Scientist</a> </br>
 
