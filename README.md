@@ -6,7 +6,7 @@
 
 🛠️ I’m currently working on.... 
 - <p> Intro to C# and Murach's ASP.NET Core MVC <p>
-- <a href="https://see.stanford.edu/Course/CS106B">Stanford Engineering's C++</a>, an introduction programming methodology course in C++, CS106B <br>
+- <a href="https://see.stanford.edu/Course/CS106B">Stanford Engineering's C++</a>, an introduction programming methodology course in C++ and Java, CS106B <br>
 
 Past Full-Stack Web Apps
 - <a href="https://github.com/XINEXPORT/chatgpt-ai-healthapp"> CareBuddy </a>, an AI Healthcare Chatbot for DallasAI, 4-Week challenge for the DallasAI student developers group.<br>
