@@ -54,11 +54,3 @@ Past Full-Stack Web Apps
 ### Testing
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-
-  <br>
-  <div>
-<!--   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=XINEXPORT&theme=radical&hide_border=true">
-  <img src = "https://github-readme-stats.vercel.app/api?username=XINEXPORT&theme=radical&show_icons=true&hide_border=true&count_private=true"> -->
-  <br>
-  </div>
