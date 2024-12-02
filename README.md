@@ -9,7 +9,7 @@
 - <a href="https://see.stanford.edu/Course/CS106B">Stanford Engineering's C++</a>, an introduction to programming abstractions, CS106B <br>
 
 Past Full-Stack Web Apps
-- <a href="https://github.com/XINEXPORT/chatgpt-ai-healthapp"> CareBuddy </a>, an AI Healthcare Chatbot for DallasAI, 4-Week challenge for the DallasAI student developers group.<br>
+- <a href="https://github.com/XINEXPORT/chatgpt-ai-healthapp"> CareBuddy </a>, an AI healthcare chatbot built for the DallasAI student mentorship group.<br>
 - <a href="https://github.com/CloudyBae/dsd-grocery"> Zest </a>, a grocery management tool with built-in ingredient tracker, recipe integration, and macro calculator. <br>
 - <a href="https://github.com/XINEXPORT/Vibes"> Vibes </a>, a create-your-own soundscape web application for networked, social engagement. <br>
 - <a href="https://github.com/XINEXPORT/guesstheanimal">Guess the Animal </a>, an online interactive children’s game platform where a user matches a sound to an pictures of animals. <br>
