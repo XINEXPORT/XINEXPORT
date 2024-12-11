@@ -1,6 +1,4 @@
-<div id="header" align="center">
-</div>
-<img src="https://komarev.com/ghpvc/?username=XINEXPORT&color=ff69b4&style=for-the-badge">
+
 
 ### Hi, I'm Christine
 
