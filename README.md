@@ -3,7 +3,7 @@
 ### Hi, I'm Christine
 
 🛠️ I’m currently working on.... 
-- <p> Intro to C# and <a href="https://github.com/XINEXPORT/Xine-SportsPro"> Sports Pro</a> for Murach's ASP.NET Core MVC <p>
+- <p> <a href="https://github.com/XINEXPORT/Xine-SportsPro"> Sports Pro</a> for Murach's ASP.NET Core MVC <p>
 - <a href="https://see.stanford.edu/Course/CS106B">Stanford Engineering's C++</a>, an introduction to programming abstractions, CS106B <br>
 
 Past Full-Stack Web Apps
