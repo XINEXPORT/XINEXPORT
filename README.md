@@ -3,10 +3,10 @@
 ### Hi, I'm Christine
 
 🛠️ I’m currently working on.... 
-- <p> Sports Pro</a> for Murach's ASP.NET Core MVC <p>
 - <a href="https://see.stanford.edu/Course/CS106B">Stanford Engineering's C++</a>, an introduction to programming abstractions, CS106B <br>
 
 Past Full-Stack Web Apps
+- <a href="https://github.com/XINEXPORT/SportsPro"> Sports Pro</a> for Murach's ASP.NET Core MVC <a>
 - <a href="https://github.com/XINEXPORT/chatgpt-ai-healthapp"> CareBuddy </a>, an AI healthcare chatbot built for the DallasAI student mentorship group.<br>
 - <a href="https://github.com/CloudyBae/dsd-grocery"> Zest </a>, a grocery management tool with built-in ingredient tracker, recipe integration, and macro calculator. <br>
 - <a href="https://github.com/XINEXPORT/Vibes"> Vibes </a>, a create-your-own soundscape web application for networked, social engagement. <br>
