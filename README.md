@@ -3,7 +3,7 @@
 ### Hi, I'm Christine
 
 🛠️ I’m currently working on.... 
-- <a href="https://see.stanford.edu/Course/CS106B">Stanford Engineering's C++</a>, an introduction to programming abstractions, CS106B <br>
+- UNA, a video game livestreaming app for <a href="https://gamesforlove.org/">Games for Love</a><br>
 
 Past Full-Stack Web Apps
 - <a href="https://github.com/XINEXPORT/SportsPro"> Sports Pro</a> for Murach's ASP.NET Core MVC <a>
