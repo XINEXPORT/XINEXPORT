@@ -4,10 +4,10 @@
 
 🛠️ I’m currently working on.... 
 - UNA, a video game livestreaming app for <a href="https://gamesforlove.org/">Games for Love</a><br>
+- <a href="https://github.com/XINEXPORT/chatgpt-ai-healthapp"> CareBuddy </a>, an AI healthcare chatbot coach
 
 Past Full-Stack Web Apps
-- <a href="https://github.com/XINEXPORT/SportsPro"> Sports Pro</a> for Murach's ASP.NET Core MVC <a>
-- <a href="https://github.com/XINEXPORT/chatgpt-ai-healthapp"> CareBuddy </a>, an AI healthcare chatbot built for the DallasAI student mentorship group.<br>
+- <a href="https://github.com/XINEXPORT/SportsPro"> Sports Pro</a> for Murach's ASP.NET Core MVC <a> <br>
 - <a href="https://github.com/CloudyBae/dsd-grocery"> Zest </a>, a grocery management tool with built-in ingredient tracker, recipe integration, and macro calculator. <br>
 - <a href="https://github.com/XINEXPORT/Vibes"> Vibes </a>, a create-your-own soundscape web application for networked, social engagement. <br>
 - <a href="https://github.com/XINEXPORT/guesstheanimal">Guess the Animal </a>, an online interactive children’s game platform where a user matches a sound to an pictures of animals. <br>
