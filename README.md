@@ -4,7 +4,7 @@
 
 🛠️ I’m currently working on.... 
 - UNA, a video game livestreaming app for <a href="https://gamesforlove.org/">Games for Love</a><br>
-- <a href="https://github.com/XINEXPORT/chatgpt-ai-healthapp"> CareBuddy </a>, an AI healthcare chatbot coach
+- <a href="https://github.com/htameez/CareBuddy"> CareBuddy </a>, an AI healthcare chatbot coach
 
 Past Full-Stack Web Apps
 - <a href="https://github.com/XINEXPORT/SportsPro"> Sports Pro</a> for Murach's ASP.NET Core MVC <a> <br>
