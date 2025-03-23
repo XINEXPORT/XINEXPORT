@@ -4,7 +4,7 @@
 
 🛠️ I’m currently working on.... 
 - UNA, a video game livestreaming app for <a href="https://gamesforlove.org/">Games for Love.</a><br>
-- CS-11, Introduction to Computer Science with C++, Tufts University
+- <a href="https://www.cs.tufts.edu/comp/11/schedule/schedule.html">CS-11 </a>, Introduction to Computer Science with C++, Tufts University
 
 Past Full-Stack Web Apps
 - <a href="https://github.com/htameez/CareBuddy"> CareBuddy </a>, a friendly AI health coach.
