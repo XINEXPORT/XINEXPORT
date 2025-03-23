@@ -4,9 +4,9 @@
 
 🛠️ I’m currently working on.... 
 - UNA, a video game livestreaming app for <a href="https://gamesforlove.org/">Games for Love.</a><br>
-- <a href="https://github.com/htameez/CareBuddy"> CareBuddy </a>, a friendly AI health coach.
 
 Past Full-Stack Web Apps
+- <a href="https://github.com/htameez/CareBuddy"> CareBuddy </a>, a friendly AI health coach.
 - <a href="https://github.com/XINEXPORT/SportsPro">Sports Pro</a>, a client & incident data management system.<a> <br>
 - <a href="https://github.com/CloudyBae/dsd-grocery"> Zest </a>, a grocery management tool with built-in ingredient tracker, recipe integration, and macro calculator. <br>
 - <a href="https://github.com/XINEXPORT/Vibes"> Vibes </a>, a create-your-own soundscape web application for networked, social engagement. <br>
