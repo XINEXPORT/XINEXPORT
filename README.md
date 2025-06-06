@@ -4,7 +4,6 @@
 
 🛠️ I’m currently working on.... 
 - <a href = "https://github.com/XINEXPORT/Teardown25-DIY-Synth-Workshop">A Super Simple DIY Synth Workshop</a> w/ Mir Jeffres and Christine Hoang
-- UNA, a video game livestreaming app for <a href="https://gamesforlove.org/">Games for Love.</a><br>
 - <a href="https://www.cs.tufts.edu/comp/11/schedule/schedule.html">CS-11 </a>, Introduction to Computer Science with C++
 
 Past Full-Stack Web Apps
