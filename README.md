@@ -1,6 +1,9 @@
 
 
 ### Hi, I'm Christine
+I am a Application Administrator by day and a Computer Science graduate student by night (and most weekends). </br>
+My interests include programming, web technologies, community involvement, music & arts, road cycling, and maintaining an active lifestyle. 
+
 
 🛠️ I’m currently working on.... 
 - <a href = "https://github.com/XINEXPORT/Teardown25-DIY-Synth-Workshop">A Super Simple DIY Synth Workshop</a> w/ Mir Jeffres and Christine Hoang
