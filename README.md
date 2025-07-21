@@ -1,6 +1,6 @@
 
 
-### Hi, I'm Christine
+### Hi, I'm Christine 👋👋
 I am a Application Administrator by day and a Computer Science graduate student by night (and most weekends). </br>
 My interests include programming, web technologies, community involvement, music & arts, road cycling, and maintaining an active lifestyle. 
 
