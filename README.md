@@ -1,7 +1,7 @@
 
 
 ### Hi, I'm Christine 👋👋
-I am a Application Administrator by day and a Computer Science graduate student by night (and most weekends). </br>
+I am a Application Administrator and a Computer Science graduate student at Tufts University. </br>
 My interests include programming, web technologies, community involvement, music & arts, road cycling, and maintaining an active lifestyle. 
 
 
