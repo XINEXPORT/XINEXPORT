@@ -6,7 +6,7 @@ My interests include programming, web technologies, community involvement, music
 
 
 🛠️ I’m currently working on.... 
-- <a href = "https://github.com/XINEXPORT/Teardown25-DIY-Synth-Workshop">A Super Simple DIY Synth Workshop</a> w/ Mir Jeffres and Christine Hoang
+- <a href = "https://github.com/XINEXPORT/Teardown25-DIY-Synth-Workshop">A Super Simple DIY Synth Workshop for Teardown 2025</a> w/ Mir Jeffres and Christine Hoang
 - <a href="https://www.cs.tufts.edu/comp/11/schedule/schedule.html">CS-11 </a>, Introduction to Computer Science with C++
 
 Past Full-Stack Web Apps
