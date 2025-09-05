@@ -4,10 +4,9 @@
 I am a Application Administrator and a Computer Science graduate student at Tufts University. </br>
 My interests include programming, web technologies, community involvement, music & arts, road cycling, and maintaining an active lifestyle. 
 
-
 🛠️ I’m currently working on.... 
-- <a href = "https://github.com/XINEXPORT/Teardown25-DIY-Synth-Workshop">A Super Simple DIY Synth Workshop for Teardown 2025</a> w/ Mir Jeffres and Christine Hoang
-- <a href="https://www.cs.tufts.edu/comp/11/schedule/schedule.html">CS-11 </a>, Introduction to Computer Science with C++
+- <a href="https://www.cs.tufts.edu/comp/15/">CS-15 </a>, Data Structures in C++
+- UNA, a web streaming platform for Games for Love
 
 Past Full-Stack Web Apps
 - <a href="https://github.com/htameez/CareBuddy"> CareBuddy </a>, a friendly AI health coach.
