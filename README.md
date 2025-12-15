@@ -5,7 +5,7 @@ I am a Application Administrator and a Computer Science graduate student at Tuft
 My interests include programming, web technologies, community involvement, music & arts, road cycling, and maintaining an active lifestyle. 
 
 🛠️ I’m currently working on.... 
-- <a href="https://universitycollege.tufts.edu/courses/browse/database-systems">CS-15 </a>, Database Systems with Cody Doucette
+- <a href="https://universitycollege.tufts.edu/courses/browse/database-systems">CS-115 </a>, Database Systems with Cody Doucette
 - <a href="https://universitycollege.tufts.edu/courses/browse/introduction-rfid-and-iot#section-44702"> EE-144 </a>, Intro to RFID and IoT with Khaled ElMahgoub
 - UNA, a web streaming platform for Games for Love
 
