@@ -11,7 +11,7 @@ My interests include programming, web technologies, community involvement, music
 
 Past Full-Stack Web Apps
 - <a href="https://github.com/htameez/CareBuddy"> CareBuddy </a>, a friendly AI health coach.
-- <a href="https://github.com/XINEXPORT/SportsPro">Sports Pro</a>, a client & incident data management system.<a> <br>
+- <a href="https://github.com/XINEXPORT/SportsPro">Sports Pro</a>, an incident management system for sports equipment.<a> <br>
 - <a href="https://github.com/CloudyBae/dsd-grocery"> Zest </a>, a grocery management tool with built-in ingredient tracker, recipe integration, and macro calculator. <br>
 - <a href="https://github.com/XINEXPORT/Vibes"> Vibes </a>, a create-your-own soundscape web application for networked, social engagement. <br>
 - <a href="https://github.com/XINEXPORT/guesstheanimal">Guess the Animal </a>, an online interactive children’s game platform where a user matches a sound to pictures of animals. <br>
