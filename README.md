@@ -6,7 +6,6 @@ My interests include programming, web technologies, community involvement, music
 
 🛠️ I’m currently working on.... 
 - <a href="https://mathematics.jhu.edu/wp-content/uploads/sites/62/2024/06/110.301-IntroProofsSyllabus.pdf">AS.110.301 </a>, Introduction to Proofs with Erich Goldstein at Johns Hopkins University
-- <a href="https://dallascollege.campusconcourse.com/view_syllabus?course_id=118384">MATH 1342 </a>, Elementary Statistical Methods with Huy Ngo at Dallas College
 - UNA, a web streaming platform for Games for Love
 
 Past Full-Stack Web Apps
