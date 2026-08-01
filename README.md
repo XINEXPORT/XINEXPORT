@@ -5,8 +5,11 @@ I am a Senior Software Engineer and a Computer Science graduate student at Tufts
 My interests include programming, web technologies, community involvement, music & arts, road cycling, and maintaining an active lifestyle. 
 
 🛠️ I’m currently working on.... 
-- <a href="https://mathematics.jhu.edu/wp-content/uploads/sites/62/2024/06/110.301-IntroProofsSyllabus.pdf">AS.110.301 </a>, Introduction to Proofs with Erich Goldstein at Johns Hopkins University
-- UNA, a web streaming platform for Games for Love
+- Learning <a href="https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU">OCaml Programming: Correct + Efficient + Beautiful </a> with Michael Clarkson
+- Immersive Learning through <a href="https://skillbuilder.aws/search?page=1&typeId=aws_builder_lab"> AWS Builder Labs </a>
+
+👀 Upcoming.... 
+- <a href="https://universitycollege.tufts.edu/courses/browse/discrete-mathematics">CS 61</a>, Discrete Mathematics with Paulina Trifonova at Tufts University
 
 Past Full-Stack Web Apps
 - <a href="https://github.com/XINEXPORT/SmartShelf"> SmartShelf </a>, an inventory monitoring system using ThingMagic's UHF RFID Reader.
